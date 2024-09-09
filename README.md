@@ -20,6 +20,7 @@ Welcome to <strong>Awesome Crypto Bot</strong> – a curated list of GitHub repo
 - [telegram-blum-auto](https://github.com/flaming-chameleon/telegram-blum-auto)
 - [blum-autoclicker](https://github.com/phen0menon/blum-autoclicker) - @phen0menon
 - [AutoCliker-Blum](https://github.com/0x-John/AutoCliker-Blum)
+- [Catopia BOT](https://github.com/Widiskel/catopia-bot)
 
 ## Contributions:
 

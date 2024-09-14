@@ -21,6 +21,7 @@ Welcome to <strong>Awesome Crypto Bot</strong> – a curated list of GitHub repo
 - [blum-autoclicker](https://github.com/phen0menon/blum-autoclicker) - @phen0menon
 - [AutoCliker-Blum](https://github.com/0x-John/AutoCliker-Blum)
 - [Catopia BOT](https://github.com/Widiskel/catopia-bot)
+- [Seed-App-Mine-Seed-BOT-Telegram](https://github.com/vanhbakaa/Seed-App-Mine-Seed-BOT-Telegram)
 
 ## Contributions:
 

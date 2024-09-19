@@ -22,6 +22,7 @@ Welcome to <strong>Awesome Crypto Bot</strong> – a curated list of GitHub repo
 - [AutoCliker-Blum](https://github.com/0x-John/AutoCliker-Blum)
 - [Catopia BOT](https://github.com/Widiskel/catopia-bot)
 - [Seed-App-Mine-Seed-BOT-Telegram](https://github.com/vanhbakaa/Seed-App-Mine-Seed-BOT-Telegram)
+- [BabyDoge - Auto Claim Bot](https://github.com/smart-airdrop/babydoge-claimer)
 
 ## Contributions:
 

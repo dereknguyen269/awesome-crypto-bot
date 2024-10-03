@@ -23,6 +23,7 @@ Welcome to <strong>Awesome Crypto Bot</strong> – a curated list of GitHub repo
 - [Catopia BOT](https://github.com/Widiskel/catopia-bot)
 - [Seed-App-Mine-Seed-BOT-Telegram](https://github.com/vanhbakaa/Seed-App-Mine-Seed-BOT-Telegram)
 - [BabyDoge - Auto Claim Bot](https://github.com/smart-airdrop/babydoge-claimer)
+- [HotWalletClaimer](https://github.com/thebrumby/HotWalletClaimer)
 
 ## Contributions:
 
